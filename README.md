@@ -1,1 +1,2 @@
-Printf Team Project with Lerato Ncwadi and  Tshegofatso Tswai
+Printf() Team Project 
+Authors: Lerato Ncwadi and Tshegofatso Tswai
